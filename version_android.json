@@ -1,10 +1,11 @@
 {
-  "latest_version": "1.0.0",
-  "min_required_version": "1.0.0",
+  "latest_version": "2.0.0",
+  "min_required_version": "2.0.0",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest",
   "changelog": [
-    "Rilis perdana aplikasi porting Android Native.",
-    "Desain antarmuka premium glassmorphism modern.",
-    "Fitur terintegrasi Video Downloader & AI Analyzer."
+    "🚀 UPDATE BESAR V2.0.0 IS HERE!",
+    "Peningkatan kecepatan rendering video hingga 2x lipat.",
+    "Dukungan penuh AI Provider SambaNova, Cerebras, Cohere & OpenRouter.",
+    "Perbaikan bug & pembersihan memori otomatis."
   ]
 }
