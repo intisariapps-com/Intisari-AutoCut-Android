@@ -39,6 +39,14 @@ Tidak perlu laptop, tidak perlu software editing mahal. Cukup masukkan URL video
 3. Jika muncul dialog "Sumber Tidak Dikenal", pilih **Izinkan dari Sumber Ini**
 4. Ikuti instruksi instalasi
 
+### 🎥 Video Panduan Uji Coba Trial
+
+Bagi Anda yang ingin melakukan uji coba trial fitur aplikasi secara gratis, silakan tonton panduan video aktivasi dan uji coba di bawah ini:
+
+**[▶️ Video Tutorial Uji Coba Trial AutoCut](https://youtu.be/PEZi_Jt1xK4)**
+
+---
+
 ### Metode 2 — Halaman Releases GitHub
 
 Kunjungi [Halaman Releases](https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest) untuk melihat semua versi yang tersedia beserta catatan perubahan.
