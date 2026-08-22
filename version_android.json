@@ -1,10 +1,11 @@
 {
-  "latest_version": "1.0.0",
-  "min_required_version": "1.0.0",
+  "latest_version": "1.1.0",
+  "min_required_version": "1.1.0",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
   "changelog": [
-    "Rilis perdana aplikasi porting Android Native.",
-    "Desain antarmuka premium glassmorphism modern.",
-    "Fitur terintegrasi Video Downloader & AI Analyzer."
+    "Refactoring dialog progress Studio AI yang lebih modular.",
+    "Sistem cache transkrip Groq Whisper berbasis Fast MD5 video.",
+    "Format penamaan file output MP4 lebih deskriptif dengan 3 kata judul asli.",
+    "Sistem build CLI interaktif dengan unit test gatekeeper."
   ]
 }
