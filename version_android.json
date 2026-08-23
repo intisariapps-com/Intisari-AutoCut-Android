@@ -1,11 +1,13 @@
 {
-  "latest_version": "1.1.0",
+  "latest_version": "1.1.1",
   "min_required_version": "1.1.0",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
   "changelog": [
-    "Refactoring dialog progress Studio AI yang lebih modular.",
-    "Sistem cache transkrip Groq Whisper berbasis Fast MD5 video.",
-    "Format penamaan file output MP4 lebih deskriptif dengan 3 kata judul asli.",
-    "Sistem build CLI interaktif dengan unit test gatekeeper."
+    "Tombol 'Batalkan Proses' di dialog pemotongan kini benar-benar menghentikan FFmpeg di latar belakang.",
+    "Perbaikan encoder fallback: libx264 diganti mpeg4 karena libx264 tidak tersedia di bundel FFmpegKit.",
+    "Pembatalan proses tidak lagi menampilkan status 'Pemotongan Gagal!' di UI.",
+    "Pencegahan hardware encoder lock: klip pertama pasca-cancel otomatis pakai encoder software.",
+    "Telemetri pemotongan via Galeri kini dikirim ke server dan masuk hitungan total klip.",
+    "CancellationException tidak lagi dicatat sebagai error fatal di log crash."
   ]
 }
