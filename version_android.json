@@ -1,13 +1,13 @@
 {
-  "latest_version": "1.1.1",
-  "min_required_version": "1.1.0",
+  "latest_version": "1.1.2",
+  "min_required_version": "1.1.2",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
   "changelog": [
-    "Tombol 'Batalkan Proses' di dialog pemotongan kini benar-benar menghentikan FFmpeg di latar belakang.",
-    "Perbaikan encoder fallback: libx264 diganti mpeg4 karena libx264 tidak tersedia di bundel FFmpegKit.",
-    "Pembatalan proses tidak lagi menampilkan status 'Pemotongan Gagal!' di UI.",
-    "Pencegahan hardware encoder lock: klip pertama pasca-cancel otomatis pakai encoder software.",
-    "Telemetri pemotongan via Galeri kini dikirim ke server dan masuk hitungan total klip.",
-    "CancellationException tidak lagi dicatat sebagai error fatal di log crash."
+    "Implementasi Error Intelligence dan penanganan notifikasi kegagalan transkrip (cookie expired atau pool kosong).",
+    "Peningkatan batas waktu safety timeout rendering menjadi 20 menit untuk video berdurasi panjang.",
+    "Penyempurnaan alur tombol 'Buka Folder' untuk membuka subfolder Dashboard, Galeri, dan Resep secara dinamis dan presisi.",
+    "Pemisahan folder hasil ekspor render secara rapi dengan prefiks GALERI_, TXT_, dan YT_.",
+    "Pencegahan race condition saat penghancuran (onDestroy) service rendering dengan menerapkan session-filtering.",
+    "Optimalisasi mekanisme impor Galeri menggunakan penyalinan master stabil dengan size check dan shared preferences cache."
   ]
 }
