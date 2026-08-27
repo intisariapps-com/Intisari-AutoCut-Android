@@ -1,6 +1,6 @@
 {
   "latest_version": "1.1.2",
-  "min_required_version": "1.1.2",
+  "min_required_version": "1.1.1",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
   "changelog": [
     "Implementasi Error Intelligence dan penanganan notifikasi kegagalan transkrip (cookie expired atau pool kosong).",
