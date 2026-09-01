@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.4",
-  "min_required_version": "1.1.4",
+  "latest_version": "1.1.3",
+  "min_required_version": "1.1.3",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
   "changelog": [
     "Sistem In-App Direct OTA Auto-Updater mandiri (Update instan langsung dari aplikasi tanpa membuka browser).",
