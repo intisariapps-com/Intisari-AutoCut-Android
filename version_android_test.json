@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.1.5",
+  "min_required_version": "1.1.4",
+  "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
+  "changelog": [
+    "Sistem In-App Direct OTA Updater aktif (Update otomatis langsung di aplikasi tanpa membuka browser).",
+    "Uji coba verifikasi download mandiri berkas APK dan peluncuran PackageInstaller bawaan Android.",
+    "Peningkatan keamanan transmisi autentikasi token lisensi dan perlindungan HWID Guard."
+  ]
+}
