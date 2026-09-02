@@ -2,6 +2,11 @@
   "latest_version": "1.1.4",
   "min_required_version": "1.1.4",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
+  "trial": {
+    "enabled": true,
+    "days": 3,
+    "url": "https://hub.intisariapps.com/trial/?app_id=intisari-autocut"
+  },
   "changelog": [
     "Sistem In-App Direct OTA Auto-Updater mandiri (Update instan langsung dari aplikasi tanpa membuka browser).",
     "Penambahan fitur Ekstraksi Resep JSON ('📥 Ekstrak JSON') bertema emas di AI Analyzer beserta dialog info storage path.",
