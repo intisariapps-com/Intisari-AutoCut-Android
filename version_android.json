@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.4",
-  "min_required_version": "1.1.4",
+  "latest_version": "1.1.5",
+  "min_required_version": "1.1.5",
   "download_url": "https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk",
   "trial": {
     "enabled": false,
@@ -8,8 +8,12 @@
     "url": "https://hub.intisariapps.com/trial/?app_id=intisari-autocut"
   },
   "changelog": [
-    "Sistem In-App Direct OTA Auto-Updater mandiri (Update instan langsung dari aplikasi tanpa membuka browser).",
-    "Penambahan fitur Ekstraksi Resep JSON ('📥 Ekstrak JSON') bertema emas di AI Analyzer beserta dialog info storage path.",
-    "Penyempurnaan klasifikasi subfolder ekspor (GALERI_, TXT_, YT_) dan standarisasi parameter encoding FFmpeg CapCut-certified."
+    "[PENINGKATAN] Optimasi Watermark: Skala logo proporsional 130px, opasitas transparan 75%, serta koordinat presisi anti-tumpang tindih di atas subtitle maupun kartu hook.",
+    "[PERBAIKAN] Folder Ekspor Studio AI: Tombol 'Buka Folder' di Studio Editor kini mengarah langsung ke berkas MP4 hasil ekspor secara presisi.",
+    "[BARU] Integrasi logo resmi baru Intisari AutoCut pada antarmuka Dasbor dengan sentuhan visual Dark Glassmorphism.",
+    "[BARU] Analisis AI Galeri Cerdas: Video unduhan YouTube yang dipilih dari galeri kini menggunakan ulang transkrip lokal/R2 secara instan tanpa memakan kuota Whisper ulang.",
+    "[PENINGKATAN] Teks Hook Anti-Meluap: Pemecahan baris pintar dan auto-fit font dinamis agar teks hook pada video 9:16 selalu rapi di dalam kartu.",
+    "[PENINGKATAN] AI Gateway Lebih Tangguh: Dukungan timeout 120 detik, auto-retry soket, dan auto-fallback ke kunci cadangan jika jalur cookie sibuk.",
+    "[BARU] Dialog 'Ekstrak JSON' ringkas dengan fitur buka berkas langsung dan penyimpanan riwayat otomatis."
   ]
 }
