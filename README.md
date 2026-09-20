@@ -9,9 +9,10 @@
 [![Release](https://img.shields.io/github/v/release/intisariapps-com/Intisari-AutoCut-Android?style=for-the-badge&color=6366f1&label=Versi%20Terbaru)](https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest)
 [![Download](https://img.shields.io/github/downloads/intisariapps-com/Intisari-AutoCut-Android/total?style=for-the-badge&color=a855f7&label=Total%20Unduhan)](https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk)
 [![Android](https://img.shields.io/badge/Android-7.0%2B-brightgreen?style=for-the-badge&logo=android)](https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/intisariapps-com/Intisari-AutoCut-Android/blob/main/AutoCut_Video_Engine_Colab.ipynb)
 [![License](https://img.shields.io/badge/Lisensi-Berbayar-orange?style=for-the-badge)](https://intisariapps.com)
 
-**[⬇️ UNDUH APK SEKARANG](https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk)**
+**[⬇️ UNDUH APK SEKARANG](https://github.com/intisariapps-com/Intisari-AutoCut-Android/releases/latest/download/IntisariAutoCut.apk)** &nbsp;|&nbsp; **[⚡ BUKA SERVER COLAB](https://colab.research.google.com/github/intisariapps-com/Intisari-AutoCut-Android/blob/main/AutoCut_Video_Engine_Colab.ipynb)**
 
 *Unduhan langsung — tidak perlu buat akun GitHub*
 
