@@ -1,0 +1,8 @@
+# macOS AppleDouble & Metadata
+.DS_Store
+._*
+__MACOSX/
+
+# Python Cache
+*.pyc
+__pycache__/
